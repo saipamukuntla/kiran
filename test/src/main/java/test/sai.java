@@ -13,8 +13,4 @@ public class sai {
 		driver.get("https://www.amazon.in/");
 	}
 	
-	
-	
-	
-
 }
